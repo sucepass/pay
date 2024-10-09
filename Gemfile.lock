@@ -257,7 +257,7 @@ GEM
       rubocop-performance (~> 1.19.0)
     stimulus-rails (1.2.2)
       railties (>= 6.0.0)
-    stripe (9.1.0)
+    stripe (13.0.0)
     thor (1.2.2)
     timeout (0.4.0)
     ttfunk (1.7.0)
@@ -309,7 +309,7 @@ DEPENDENCIES
   sqlite3 (~> 1.6.0.rc2)
   standard
   stimulus-rails
-  stripe (~> 9.0)
+  stripe (~> 13.0)
   turbo-rails
   vcr
   web-console
